@@ -5,6 +5,6 @@ Welcome to my GitHub, take the opportunity to see my incredible projects that I 
 
 - :fire: All of my projects are available at [my GitHub](https://github.com/Hildebrando-Viana-Matos?tab=repositories)  :octocat:
 
-- 💬 Ask me about **JavaScript, HTML, CSS, MySql, PHP, ReactJ and ReactNative**
+- 💬 Ask me about **JavaScript, HTML, CSS, MySql, PHP, ReactJS and ReactNative**
 
 - 📫 How to reach me **hildocontato@gmail.com** or my [Instagram](https://instagram.com/hildovm/)
