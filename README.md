@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/Hildebrando-Viana-Matos/site-venda/blob/main/image/Design%20sem%20nome%20(9).png">
 <h1 align="center">:earth_americas: HELLO WORLD :metal:</h1>
-I'm Hildebrando Viana Matos:kissing_closed_eyes: and I'm a web, mobile developer and designer :mortar_board:!! 
+I'm Hildebrando Viana Matos:kissing_closed_eyes: and I'm a web and mobile developer, and UI/UX designer :mortar_board:!!<br />
 Welcome to my GitHub, take the opportunity to see my amazing projects that I have built with all my heart :heart:
 <br /><br />
 <div align="center">
