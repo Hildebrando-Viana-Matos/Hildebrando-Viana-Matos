@@ -1,7 +1,5 @@
-<img align="center" src="https://github.com/Hildebrando-Viana-Matos/site-venda/blob/main/image/Design%20sem%20nome%20(9).png">
-<h1 align="center">:earth_americas: HELLO WORLD :metal:</h1>
-I'm Hildebrando Viana Matos:kissing_closed_eyes: and I'm a web and mobile developer, and UI/UX designer :mortar_board:!!<br />
-Welcome to my GitHub, take the opportunity to see my amazing projects that I have built with all my heart :heart:
+<h1>:earth_americas: HELLO WORLD :metal:</h1>
+I'm a highly skilled and experienced full-stack freelancer with over 4 years of experience in website and app development projects. In addition to software development, I have additional skills in design, marketing and sales, which allow me to offer complete and effective solutions for my clients' projects. I always keep up to date with the latest trends and technologies in the market to ensure that projects are modern and competitive!
 <br /><br />
 <div align="center">
   <a href="https://github.com/Hildebrando-Viana-Matos">
