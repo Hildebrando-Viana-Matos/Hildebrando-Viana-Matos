@@ -1,5 +1,6 @@
-<h1>:earth_americas: HELLO WORLD :metal:</h1>
-I'm a highly skilled and experienced full-stack freelancer with over 4 years of experience in website and app development projects. In addition to software development, I have additional skills in design, marketing and sales, which allow me to offer complete and effective solutions for my clients' projects. I always keep up to date with the latest trends and technologies in the market to ensure that projects are modern and competitive!
+<h1 align="center">:earth_americas: HELLO WORLD :metal:</h1>
+<p align="center">I'm a highly skilled and experienced full-stack freelancer with over 4 years of experience in website and app development projects. In addition to software development, I have additional skills in design, marketing and sales, which allow me to offer complete and effective solutions for my clients' projects. I always keep up to date with the latest trends and technologies in the market to ensure that projects are modern and competitive!
+</p>
 <br /><br />
 <div align="center">
   <a href="https://github.com/Hildebrando-Viana-Matos">
