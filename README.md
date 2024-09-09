@@ -1,15 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Hildebrando&color=5CCDEB&height=250&section=header&fontColor=ffffff"/>
 
-<p align="center">I'm a highly skilled and experienced full-stack freelancer with over 4 years of experience in website and app development projects. In addition to software development, I have additional skills in design, marketing and sales, which allow me to offer complete and effective solutions for my clients' projects. I always keep up to date with the latest trends and technologies in the market to ensure that projects are modern and competitive!
+<p align="center">I'm a highly skilled and experienced full-stack freelancer with over 5 years of experience in website and app development projects. In addition to software development, I have additional skills in design, marketing and sales, which allow me to offer complete and effective solutions for my clients' projects. I always keep up to date with the latest trends and technologies in the market to ensure that projects are modern and competitive!
 </p>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Hildebrando-Viana-Matos&show_icons=true&count_private=true&hide_border=true&title_color=5CCDEB&icon_color=5CCDEB&text_color=ffffff&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hildebrando-Viana-Matos&layout=compact&hide_border=true&title_color=5CCDEB&text_color=ffffff&bg_color=0d1117" />
 </div>
-
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hildebrando-Viana-Matos&theme=react-dark)
-
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hildebrando-Viana-Matos&theme=algolia&row=1&no-bg=true&margin-w=15&margin-h=15" />
@@ -32,10 +29,8 @@
 <br />
 
 <div align="center"> 
-  <a href="https://www.youtube.com/channel/UCMmtcUBGIMNERU2g4tCrZBA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/hildodev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:hildocontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hildebrando-viana-matos-78972b202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/hildodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5CCDEB&height=120&section=footer" />
